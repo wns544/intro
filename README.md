@@ -8,8 +8,10 @@
 2. list
 3. list
 ![snag Uh Family](https://i.ytimg.com/vi/fo6cxE46GCU/hqdefault.jpg)
-[**#문재인 뚜루루뚜루#**](https://www.youtube.com/watch?v=r59zIthT-Uw)
+[**#문재인 뚜루루뚜루#**]
+[![문재인 뚜루루뚜루](https://i.ytimg.com/vi/KtAN7C_iH-o/hqdefault.jpg)(https://www.youtube.com/watch?v=r59zIthT-Uw)
 4. list
 ![치어리더 문현숙](https://i.ytimg.com/vi/qnQEWpbShfo/maxresdefault.jpg)
-[**#치어리더 뚜루루뚜루#**](https://www.youtube.com/watch?v=qnQEWpbShfo)
+[**#치어리더 뚜루루뚜루#**]
+[![치어리더 뚜루루뚜루](https://i.ytimg.com/vi/qnQEWpbShfo/maxresdefault.jpg)](https://www.youtube.com/watch?v=qnQEWpbShfo)
 5. list
