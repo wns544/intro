@@ -5,7 +5,7 @@
 *기울인글씨*
 **굵은글씨**
 [**#문재인 뚜루루뚜루#**]
-[![문재인 뚜루루뚜루](https://i.ytimg.com/vi/KtAN7C_iH-o/hqdefault.jpg)](https://i.ytimg.com/vi/KtAN7C_iH-o/hqdefault.jpg)(https://www.youtube.com/watch?v=r59zIthT-Uw)
+[![문재인 뚜루루뚜루](https://i.ytimg.com/vi/KtAN7C_iH-o/hqdefault.jpg)](https://www.youtube.com/watch?v=r59zIthT-Uw)
 [**#치어리더 뚜루루뚜루#**]
 [![치어리더 뚜루루뚜루](https://i.ytimg.com/vi/qnQEWpbShfo/maxresdefault.jpg)](https://www.youtube.com/watch?v=qnQEWpbShfo)
 [**#쥬디다무 뚜루루뚜루#**]
