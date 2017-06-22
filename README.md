@@ -10,3 +10,4 @@
 [![치어리더 뚜루루뚜루](https://i.ytimg.com/vi/qnQEWpbShfo/maxresdefault.jpg)](https://www.youtube.com/watch?v=qnQEWpbShfo)
 [**#쥬디다무 뚜루루뚜루#**]
 [![쥬디다무 뚜루루뚜루](https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/997047_696973880395154_1798568441324041950_n.jpg?oh=74688145dad996e609ff89d2a75fb560&oe=59DA89E9)](https://www.youtube.com/watch?v=Nx6w0iCuhSc)
+[![주현쌤 뚜루루뚜루](https://github.com/wns544/intro/blob/master/%EC%A5%AC%EB%94%94%EB%8B%A4%EB%AC%B4.png?raw=true)](https://www.youtube.com/watch?v=7igPaHG70J8)
